@@ -1,0 +1,12 @@
+http://naturalistic-data.org/features/notebooks/5_Introduction_to_Neuroimaging_Data.html
+https://github.com/HuthLab/speechmodeltutorial/blob/master/SpeechModelTutorial.ipynb
+http://naturalistic-data.org/features/notebooks/Natural_Language_Processing.html
+https://brainiak.org/tutorials
+https://github.com/beinborn/brain-lang
+https://carpentries-incubator.github.io/SDC-BIDS-fMRI/aio/index.html
+https://github.com/alexhuth/TikhonovTutorial/blob/master/1_tikhonov_tutorial.ipynb
+https://github.com/alexhuth/TikhonovTutorial/blob/master/2_tikhonov_tutorial.ipynb
+https://github.com/alexhuth/TikhonovTutorial/blob/master/3_tikhonov_tutorial.ipynb
+https://github.com/shaileesjain/mt-encoding-models
+https://dartbrains.org/content/RSA.html
+https://nilearn.github.io/auto_examples/index.html
